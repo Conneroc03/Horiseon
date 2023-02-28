@@ -162,8 +162,4 @@ You are required to submit the following for review:
 
 My Edits:
 
-i changed the title and adjusted the HTML elements to better fit the purpose, changed div to section and headers. I then added text to all of the images describing them for those who need the descriptions to make it more accessible. This homework was really interesting as it has a start but it is your job it fix it and make things "better" in a way. in the begginning i had a ton of issues trying to get it to sync and to save correctly between github, gitlab and vs code, it took a bunch of trial and error and even deleting the whole UofU bootcamp folder, eventually i was able to get it all working. changing the elements like div to Section and Header was confusing to me at first as to why but after some reaserch on my part i understand why now, as it makes things more understandable to everyone, including computers, engines and other developers. 
-# Horiseon
-# Horiseon
-# Horiseon
-# Horiseon
+i changed the title and adjusted the HTML elements to better fit the purpose, changed div to section and headers. I then added text to all of the images describing them for those who need the descriptions to make it more accessible. This homework was really interesting as it has a start but it is your job it fix it and make things "better" in a way. in the begginning i had a ton of issues trying to get it to sync and to save correctly between github, gitlab and vs code, it took a bunch of trial and error and even deleting the whole UofU bootcamp folder, eventually i was able to get it all working. changing the elements like div to Section and Header was confusing to me at first as to why but after some reaserch on my part i understand why now, as it makes things more understandable to everyone, including computers, engines and other developers.
